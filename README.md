@@ -1,4 +1,4 @@
-# **Group Members (IIITD_Batch-2020)**
+#                                      **Group Members (IIITD_Batch-2020)**
 
                                            Prerak Semwal     - 2020105
                                            Vibhu Jain        - 2020151
@@ -6,9 +6,8 @@
                                            Manik Arora       - 2020519
                                            Abhay Singh Yadav - 2020010
 
-----------------------------------------------------------------------------------------------------------------------------------------------
 
-# **Project Links**
+#                                                **Project Links**
 
 [Project Presentation](https://docs.google.com/presentation/d/16DwEtUQ8YsfbIJEeh8mgicx4d3g25EHYudWRiQmE9aA/edit#slide=id.p)
 
