@@ -9,7 +9,7 @@
 
 # **Project Links**
 
-[Project Presentation](https://docs.google.com/presentation/d/16DwEtUQ8YsfbIJEeh8mgicx4d3g25EHYudWRiQmE9aA/edit#slide=id.p)
+[Project Presentation](https://docs.google.com/presentation/d/16DwEtUQ8YsfbIJEeh8mgicx4d3g25EHYudWRiQmE9aA/edit?usp=sharing)
 
 [Scenario Map](https://miro.com/app/board/o9J_lVa294k=/?fromRedirect=1)
 
