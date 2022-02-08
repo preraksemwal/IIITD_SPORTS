@@ -11,6 +11,6 @@
 
 [Project Presentation](https://docs.google.com/presentation/d/16DwEtUQ8YsfbIJEeh8mgicx4d3g25EHYudWRiQmE9aA/edit?usp=sharing)
 
-[Scenario Map](https://miro.com/app/board/o9J_lVa294k=/?fromRedirect=1)
+[Scenario Map](https://miro.com/app/board/o9J_lVa294k=/?invite_link_id=197605467212)
 
 [High Fidelity Prototype](https://www.figma.com/proto/yGYYfWz1m30gBt6G1JeXvP/Project_final...?node-id=1%3A506&starting-point-node-id=1%3A506)
